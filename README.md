@@ -1,3 +1,3 @@
 # Test-Flappy-Bird
 
-Unity's first attempt to flappy bird following noobtuts
+Unity's first attempt to replicate flappy bird by following noobtuts
